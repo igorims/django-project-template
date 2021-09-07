@@ -1,8 +1,8 @@
 # Django Bootstrap Starter Kit
 
-### Includes Bootstrap 5 and AbstractUser
+#### Includes Bootstrap 5 and AbstractUser
 
-# Installation
+## Installation
 
 Use this repository as Django project template:
 
